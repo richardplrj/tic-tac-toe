@@ -1,0 +1,18 @@
+.square {
+  width: 55px;
+  height: 55px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.game-board {
+  display: flex;
+  flex-direction: column;
+}
+
+.currentDescription {
+  margin: 5px 0;
+  font-size: 14px;
+}
